@@ -1,13 +1,12 @@
 {
-  "name": "particle",
+  "name": "github-pages-mrmufflon",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "gulp"
   },
-  "author": "Nathan Randecker",
-  "license": "ISC",
+  "author": "Felix Bache",
   "dependencies": {
     "browser-sync": "^2.26.3",
     "gulp": "^4.0.0",
